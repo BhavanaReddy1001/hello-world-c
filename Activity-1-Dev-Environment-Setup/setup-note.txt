@@ -1,0 +1,7 @@
+I set up my C programming environment and connected my project to GitHub.
+I created a simple Hello World program and compiled it using GCC.
+One problem I faced was understanding how to push my local project to GitHub.
+I learned how to initialize the repository and connect it to the remote repository.
+I also learned how to use Git commands such as git add, git commit, and git push.
+After following the steps, my project was successfully uploaded to GitHub.
+Now I can manage and update my programming projects using Git and GitHub.
